@@ -9,7 +9,7 @@ export function Chips(props) {
         <>
      <h4>Chips!!!</h4>
      <img src={Lays} alt="..."  />
-     <button onClick={()=>{navigate('/menulist')}}>Go back</button>
+     <button onClick={()=>{navigate('/menulist')}}>Go to back</button>
             
         </>
     )
