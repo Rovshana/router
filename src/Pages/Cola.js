@@ -9,7 +9,7 @@ export function Cola(props) {
         <>
            <h1 className='text-danger'>Coca-cola</h1> 
            <img src={drink} alt="..." />
-           <button onClick={()=>{navigate('/menulist')}}>Go to back</button>
+           <button onClick={()=>{navigate('/menulist')}}>Go to the back</button>
         </>
     )
 }
